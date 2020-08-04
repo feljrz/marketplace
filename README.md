@@ -9,7 +9,6 @@
 
 
 ## Interface do usuário
-(sonho)
 ![screen shot](wireframe/user_interface.png)
 
 
