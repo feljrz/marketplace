@@ -1,0 +1,32 @@
+img{
+    max-width: width 100%;
+    height: auto;
+    background: lightblue;
+    background: radial-gradient(white 30%, lightblue 70%);
+
+
+}
+
+.fa-star, .fa-star-half{
+    color: yellow;
+    padding: 2%;
+
+}
+
+#cart_count{
+    text-align: center;
+    padding: 0 0.9rem 0.1rem 0.9rem;
+    border-radius: 3rem;
+}
+
+
+
+.cart-items + .cart-items{
+    padding: 2%;
+
+}
+
+.price-details h6{
+    padding: 3% 2%;
+
+}
